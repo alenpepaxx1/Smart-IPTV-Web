@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="Alen" src="[b](https://i.ibb.co/wFDYFmmC/smart-iptv.png)" />
+<img width="1200" height="475" alt="Alen" src="https://i.ibb.co/wFDYFmmC/smart-iptv.png" />
 </div>
 
 # Smart IPTV WEB
