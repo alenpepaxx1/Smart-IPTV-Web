@@ -1,0 +1,5 @@
+{
+  "name": "Smart Web IPTV Player",
+  "description": "A powerful web-based IPTV player supporting M3U playlists and Xtream Codes API with a modern interface.",
+  "requestFramePermissions": ["picture-in-picture"]
+}
